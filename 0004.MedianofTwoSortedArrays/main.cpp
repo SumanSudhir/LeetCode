@@ -3,6 +3,24 @@ public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int n1 = nums1.size();
         int n2 = nums2.size();
+
+        if(n1==0){
+            if(n2%2 == 0){
+                return (nums2[n2/2] + nums2[n2/2 - 1])/2.0;
+            }
+
+            else{return nums2[n2/2];}
+        }
+
+
+        else if(n2==0){
+            if(n1%2 == 0){
+                return (nums1[n1/2] + nums1[n1/2 - 1])/2.0;
+            }
+
+            else{return nums1[n1/2];}
+        }
+
         int startX,endX, partitionX, partitionY, minRightX, minRightY, maxLeftX, maxLeftY;
         vector<int> arrayX;
         vector<int> arrayY;
@@ -20,8 +38,7 @@ public:
             arrayY = nums1;
         }
 
-
-        while((endX <= min(n1,n2)) && (startX >=0)){
+        while((endX >=0) && (startX <= min(n1,n2))){
             partitionX = (startX + endX)/2;
             partitionY = (n1+n2+1)/2 - partitionX;
 
@@ -42,7 +59,7 @@ public:
 
             if(partitionY == 0){
                 maxLeftY = min(nums1[0], nums2[0]) - 1;
-                minRightY = arrayY[partitionX];
+                minRightY = arrayY[partitionY];
             }
             else if(partitionY == (max(n1,n2))){
                 maxLeftY = arrayY[partitionY - 1];
