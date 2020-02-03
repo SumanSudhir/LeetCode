@@ -8,7 +8,6 @@ public:
         s = ' ' + s;
         p = ' ' + p;
 
-
         T[0][0] = true;
         for(int i=1;i<=n;i++){
             if(p[i] == '*'){
