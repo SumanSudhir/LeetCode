@@ -1,7 +1,7 @@
 # LeetCode
 
 No. | Problems | My Solution | Related Topic | Date
-:-- | :-- |:-- |:--
+:-- | :-- |:-- |:-- |:--
 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](https://github.com/SumanSudhir/LeetCode/blob/master/0001.TwoSum/main.cpp)  | Array, Hash Table  |
 2   | [Add Two Numbers]()  |   |    |
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [to be added]()    | Tree  |
