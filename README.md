@@ -33,10 +33,11 @@ No. | Problems | My Solution | Related Topic | Date
 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [Solution]()  |    |
 30  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)  | [to be added]()  |    |
 31  | [Next Permutation](https://leetcode.com/problems/next-permutation)  | [Solution]()  |    |
-33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0033.SearchinRotatedSortedArray) | Array, Binary Search | 7th April
-34  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0034.FindFirstandLastPositionofElementinSortedArray)   | Array, Binary Search | 7th April
+33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0033.SearchinRotatedSortedArray) | Array, Binary Search | 7th April'20
+34  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0034.FindFirstandLastPositionofElementinSortedArray)   | Array, Binary Search | 7th April'20
+35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)   | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0035.SearchInsertPosition) | Array, Binary Search | 7th April'20
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [to be added]()    | Tree  |
 95  | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [to be added]()    | Tree  |
-98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April 2020
-100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April 2020
+98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
+100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0114.FlattenBinaryTreetoLinkedList)   | Tree, Depth-first Search  |
