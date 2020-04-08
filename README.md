@@ -36,6 +36,7 @@ No. | Problems | My Solution | Related Topic | Date
 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0033.SearchinRotatedSortedArray) | Array, Binary Search | 7th April'20
 34  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0034.FindFirstandLastPositionofElementinSortedArray)   | Array, Binary Search | 7th April'20
 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)   | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0035.SearchInsertPosition) | Array, Binary Search | 7th April'20
+36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0036.ValidSudoku) | Hash Table | 8th April'20
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [to be added]()    | Tree  |
 95  | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [to be added]()    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
