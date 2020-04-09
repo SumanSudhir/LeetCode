@@ -33,6 +33,7 @@ No. | Problems | My Solution | Related Topic | Date
 38  | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0038.CountandSay) | String | 9th April'20
 39  | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0039.CombinationSum) | Array, Backtracking | 9th April'20
 40  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0040.CombinationSumII) | Array Backtracking | 9th April'20
+43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0043.MultiplyStrings)  | Math String  | 10th April'20
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
@@ -52,3 +53,5 @@ No. | Problems | My Solution | Related Topic | Date
 32  | []() | []() | |
 37  | []() | []() | |
 95  | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [to be added]()    | Tree  |
+41  |   |   |   |
+42  |   |   |   |
