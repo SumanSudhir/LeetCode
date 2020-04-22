@@ -36,6 +36,7 @@ No. | Problems | My Solution | Related Topic | Date
 43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0043.MultiplyStrings)  | Math String  | 10th April'20
 46  | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0046.Permutations) | Backtracking | 11th April
 48  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0048.RotateImage) | Math | 14th April
+49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0049.GroupAnagrams) | Hash Table, String | 22nd April
 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0053.MaximumSubarray) | Array, Divide and Conquer, Dynamic Programming | 10th April'20
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
