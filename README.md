@@ -39,6 +39,7 @@ No. | Problems | My Solution | Related Topic | Date
 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0049.GroupAnagrams) | Hash Table, String | 22nd April
 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0053.MaximumSubarray) | Array, Divide and Conquer, Dynamic Programming | 10th April'20
 54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0054.SpiralMatrix)  |  Array | 24th April
+55  | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0055.JumpGame) | Array, Greedy | 24th April
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
