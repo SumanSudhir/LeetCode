@@ -43,6 +43,7 @@ No. | Problems | My Solution | Related Topic | Date
 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0056.MergeIntervals) | Array, Sort | 24th April
 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0058.LengthofLastWord) | String | 24th April
 59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/submissions/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0059.SpiralMatrixII) | Array | 25th April
+61  | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0061.RotateList) | Linked List, Two Pointers | 26th April
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
