@@ -46,6 +46,7 @@ No. | Problems | My Solution | Related Topic | Date
 61  | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0061.RotateList) | Linked List, Two Pointers | 26th April
 62  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0062.UniquePaths) | Array, Dynamic Programming | 26th April
 63  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0063.UniquePathsII) | Array, Dynamic Programming | 27th April
+64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0064.MinimumPathSum) | Array, Dynamic Programming | 27th April
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
