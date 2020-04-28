@@ -34,20 +34,21 @@ No. | Problems | My Solution | Related Topic | Date
 39  | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0039.CombinationSum) | Array, Backtracking | 9th April'20
 40  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0040.CombinationSumII) | Array Backtracking | 9th April'20
 43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0043.MultiplyStrings)  | Math String  | 10th April'20
-46  | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0046.Permutations) | Backtracking | 11th April
-48  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0048.RotateImage) | Math | 14th April
+46  | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0046.Permutations) | Backtracking | 11th April'20
+48  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0048.RotateImage) | Math | 14th April'20
 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0049.GroupAnagrams) | Hash Table, String | 22nd April
 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0053.MaximumSubarray) | Array, Divide and Conquer, Dynamic Programming | 10th April'20
-54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0054.SpiralMatrix)  |  Array | 24th April
-55  | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0055.JumpGame) | Array, Greedy | 24th April
-56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0056.MergeIntervals) | Array, Sort | 24th April
-58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0058.LengthofLastWord) | String | 24th April
-59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/submissions/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0059.SpiralMatrixII) | Array | 25th April
-61  | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0061.RotateList) | Linked List, Two Pointers | 26th April
-62  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0062.UniquePaths) | Array, Dynamic Programming | 26th April
-63  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0063.UniquePathsII) | Array, Dynamic Programming | 27th April
-64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0064.MinimumPathSum) | Array, Dynamic Programming | 27th April
-66  | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0066.PlusOne) | Array | 27th April
+54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0054.SpiralMatrix)  |  Array | 24th April'20
+55  | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0055.JumpGame) | Array, Greedy | 24th April'20
+56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0056.MergeIntervals) | Array, Sort | 24th April'20
+58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0058.LengthofLastWord) | String | 24th April'20
+59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/submissions/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0059.SpiralMatrixII) | Array | 25th April'20
+61  | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0061.RotateList) | Linked List, Two Pointers | 26th April'20
+62  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0062.UniquePaths) | Array, Dynamic Programming | 26th April'20
+63  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0063.UniquePathsII) | Array, Dynamic Programming | 27th April'20
+64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0064.MinimumPathSum) | Array, Dynamic Programming | 27th April'20
+66  | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0066.PlusOne) | Array | 27th April'20
+67  | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0067.AddBinary) | String, Math | 28th April'20
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
