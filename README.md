@@ -49,6 +49,7 @@ No. | Problems | My Solution | Related Topic | Date
 64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0064.MinimumPathSum) | Array, Dynamic Programming | 27th April'20
 66  | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0066.PlusOne) | Array | 27th April'20
 67  | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0067.AddBinary) | String, Math | 28th April'20
+69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0069.Sqrt(x)) | Math, Binary Search | 28th April'20
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
