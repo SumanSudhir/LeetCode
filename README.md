@@ -52,6 +52,7 @@ No. | Problems | My Solution | Related Topic | Date
 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0069.Sqrt(x)) | Math, Binary Search | 28th April'20
 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0070.ClimbingStairs) | Dynamic Programming | 30th April'20
 73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0073.SetMatrixZeroes) | Array | 30th April'20
+74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0074.Searcha2DMatrix) | Array, Binary Search | 30th April'20
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
