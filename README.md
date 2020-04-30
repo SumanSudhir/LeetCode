@@ -57,7 +57,7 @@ No. | Problems | My Solution | Related Topic | Date
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0114.FlattenBinaryTreetoLinkedList)   | Tree, Depth-first Search  |
-
+202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0202.HappyNumber) | Hash Table, Math | 30th April'20
 
 ## TODO
 No. | Problems | My Solution | Related Topic | Date
