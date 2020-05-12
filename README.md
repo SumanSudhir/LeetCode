@@ -56,6 +56,7 @@ No. | Problems | My Solution | Related Topic | Date
 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0075.SortColors) | Array, Two Pointers, Sort | 2nd May'20
 77  | [Combinations](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0077.Combinations) | Backtracking | 5th May'20
 78  | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0078.Subsets) | Array, Backtracking, Bit Manipulation | 9th May'20
+80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0080.RemoveDuplicatesfromSortedArrayII) | Array, Two Pointers | 12th May'20
 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0094.BinaryTreeInorderTraversal)    | Tree  |
 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0098.ValidateBinarySearchTree) | Tree, Depth-first Search| 5th April'20
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
