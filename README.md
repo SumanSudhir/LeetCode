@@ -64,6 +64,8 @@ No. | Problems | My Solution | Related Topic | Date
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0100.SameTree) | Tree, Depth-first Search | 6th April'20
 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0114.FlattenBinaryTreetoLinkedList)   | Tree, Depth-first Search  |
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0202.HappyNumber) | Hash Table, Math | 30th April'20
+1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/1450.NumberofStudentsDoingHomeworkataGivenTime) | Array | 17th May'20
+1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/1451.RearrangeWordsinaSentence) | String, Sort | 17th May'20
 
 ## TODO
 No. | Problems | My Solution | Related Topic | Date
