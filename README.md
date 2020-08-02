@@ -70,7 +70,8 @@ No. | Problems | My Solution | Related Topic | Date
 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0108.ConvertSortedArraytoBinarySearchTree) | Tree, Depth-first Search | 28th May'20
 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0114.FlattenBinaryTreetoLinkedList)   | Tree, Depth-first Search  |
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0202.HappyNumber) | Hash Table, Math | 30th April'20
-520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0520.DetectCapital) | String | 1st August
+520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0520.DetectCapital) | String | 1st August'20
+705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0705.DesignHashSet) | Hash Table, Design | 2nd August'20
 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/1450.NumberofStudentsDoingHomeworkataGivenTime) | Array | 17th May'20
 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/1451.RearrangeWordsinaSentence) | String, Sort | 17th May'20
 
