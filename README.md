@@ -72,6 +72,7 @@ No. | Problems | My Solution | Related Topic | Date
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0125.ValidPalindrome)  | Two Pointers, String  | 3rd August'20
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0202.HappyNumber) | Hash Table, Math | 30th April'20
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0342.PowerofFourSolution) | Bit Manupulation | 4th August'20
+437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0437.PathSumIII) | Tree | 9th August'20
 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0520.DetectCapital) | String | 1st August'20
 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/0705.DesignHashSet) | Hash Table, Design | 2nd August'20
 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Solution](https://github.com/SumanSudhir/LeetCode/tree/master/1450.NumberofStudentsDoingHomeworkataGivenTime) | Array | 17th May'20
